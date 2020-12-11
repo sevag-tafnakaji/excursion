@@ -2,6 +2,7 @@ body {
     text-align: center;
     background-color: Black;
     font-family: Verdana;
+    
 }
 
 .title-of-page h1 {
@@ -13,4 +14,15 @@ body {
 .title-of-page h3 {
     color: Aquamarine;
     font-size: 16px;
+}
+
+.advertisment h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: White;
+}
+
+.advertisment p {
+    font-size: 21px;
+    color: gray;
 }
